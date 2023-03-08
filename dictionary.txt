@@ -1,0 +1,3 @@
+apple: a round fruit with a red or green skin
+cat: a small, usually furry, domesticated carnivore
+book: a printed or written literary work
